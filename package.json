@@ -1,5 +1,5 @@
 {
-  "name": "wdio-workshop-demoes",
+  "name": "wdio-workshop-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/klamping/wdio-workshop-demoes.git"
+    "url": "git+https://github.com/klamping/wdio-workshop-demo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "wdio": "^0.3.3"
   }
 }
